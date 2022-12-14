@@ -4,6 +4,7 @@
 
 ## Технологии:
 
+- Python 3.10
 - Django==4.1.4
 - django-filter==22.1
 - djangorestframework==3.14.0
